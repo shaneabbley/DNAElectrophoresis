@@ -1,1 +1,2 @@
 # DNAElectrophoresis
+In this simple experiment we were given plasmid DNA and taked with determining which enzyme they had been treated with by running different samples in gel electrophoresis. We were able to identify the correct samples; however, we had several design errors in our experiment. We were able to learn from these to further develope our understanding of plasmid DNA, restriction endonucleases, and gel electrophoresis. 
